@@ -16,7 +16,7 @@
 
 
 Another projects:
-- Rise 5.100 Crack [Page](https://github.com/TalhaDevv/Rise-5.100)
+
 - Hwid checker on batch ( obfuscated ) [Page](https://github.com/TalhaDevv/Hwid-Batch)
 
 
